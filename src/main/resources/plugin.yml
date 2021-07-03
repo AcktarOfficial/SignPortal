@@ -1,0 +1,10 @@
+name: SignPortal
+version: 1.0-SNAPSHOT
+main: com.acktardevs.signportal.Main
+api: ["1.0.0"]
+author: AcktarDevs
+
+permissions:
+      signportal.create:
+            description: Create sign portals
+            default: op
